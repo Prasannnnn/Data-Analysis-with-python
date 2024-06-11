@@ -1,0 +1,32 @@
+GRADING SCHEME
+---> The minimum passing mark for the course is 70% with the following weights:
+===> 50% - All Review Questions 
+===> 50% - The Final Exam
+Though Review Questions and the Final Exam have a passing mark of 50% each, the only grade that matters is the overall grade for the course.
+Review Questions have no time limit. You are encouraged to review the course material to find the answers as this counts for 50% of your mark.
+---> The final exam has a 1-hour time limit.
+---> Attempts are per question in both, the Review Questions and the Final Exam:
+---> One attempt - For True/False questions
+---> Two attempts - For any question other than True/False
+---> There are no penalties for incorrect attempts.
+---> Clicking the "Final Check" button when it appears, means your submission is FINAL.  
+You will NOT be able to resubmit your answer for that question again.
+---> Check your grades in the course at any time by clicking on the "Progress" tab.
+
+
+'''
+August  7, 2017
+
+- Beta  Module 1 and 2  are available. Module 1 will cover: understanding a domain, 
+understanding a dataset, overview of Python packages for data science Data Acquisition and 
+Obtain basic insight from datasets. Module 2 will cover: Identify and handle missing values, 
+data formatting, data normalization, data binning and Indicator variables.
+
+September  1, 2017
+
+- Full Beta everything is available.
+
+
+'''
+
+NExt see about the Introduction to Data Analysis.txt
