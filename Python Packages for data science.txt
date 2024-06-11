@@ -1,0 +1,44 @@
+In order to do data analysis in Python, we should first tell you a little bit about the
+main packages relevant to analysis in Python.
+A Python library is a collection of functions and methods that allow you to perform lots
+of actions without writing any code.
+The libraries usually contain built-in modules providing different functionalities, which
+you can use directly.
+And there are extensive libraries, offering a broad range of facilities.
+We have divided the Python data analysis libraries into three groups: 
+The first group is called "scientific computing libraries." 
+scientific computing libraries:
+Pandas ---> it offers data structure and tools for effective data manipulation and analysis.
+            It provides fast access to structured data.
+            The primary instrument of Pandas is a two-dimensional table consisting of column and row labels,
+            which are called a DataFrame.
+            It is designed to provide easy indexing functionality.
+
+Numpy ----> The Numpy library uses arrays for its inputs and outputs.
+            It can be extended to objects for matrices, and with minor coding changes, developers
+            can perform fast array processing.
+
+SciPy ----> it includes functions for some advanced math problems, as listed on this slide, as
+            well as data visualization.
+
+Visualization:
+            Using data visualization methods is the best way to communicate with others, showing them
+            meaningful results of analysis.
+            These libraries enable you to create graphs, charts and maps.
+Matplotlib-> The Matplotlib package is the most well-known library for data visualization.
+             It is great for making graphs and plots.
+             The graphs are also highly customizable.
+             Another high-level visualization library is Seaborn.
+             It is based on Matplotlib.
+
+Seaborn ---> It's very easy to generate various plots such as heat maps, time series, and violin plots.
+
+Machine Learning Algorithms:
+    With Machine Learning algorithms, we're able to develop a model using our dataset and obtain predictions.
+    The algorithmic libraries tackle some machine learning tasks from basic to complex.
+    Here we introduce two packages: 
+    ---> The Scikit-learn library contains tools for
+        statistical modeling, including regression, classification, clustering and so on.
+        This library is built on NumPy, SciPy and Matplotlib.
+    ---> StatsModels is also a Python module that allows users to explore data, estimate statistical
+        models, and perform statistical tests.
