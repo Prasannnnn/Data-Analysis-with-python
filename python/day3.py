@@ -39,5 +39,5 @@ Assignment Operator:
 
 '''
 a = 5
-a += 10 # a = a + 10 ----> a = 5 + 10 ---> a = 15
+a &= 10 # a = a + 10 ----> a = 5 + 10 ---> a = 15
 print(a)  
