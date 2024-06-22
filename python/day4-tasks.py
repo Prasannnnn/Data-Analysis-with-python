@@ -13,5 +13,9 @@ elif c == "//":
     print(f"the Floor Division value of {a} and {b} is {a//b}")
 elif c == "%":
     print(f"the Modulus value of {a} and {b} is {a%b}")
+elif c == "**":
+    print(f"the Exponential value of {a} and {b} is {a**b}")
+elif c == "/":
+    print(f"the multiplication value of {a} and {b} is {a/b}")
 else:
     print(f"{c} is an invalid Operator")
