@@ -17,3 +17,22 @@
 #     print("same ")
 # else:
 #     print("not same")
+
+
+a = float(input("Enter the Value : "))
+if a > 0 :
+    print("positive")
+elif a == 55:
+    print("fifty five")
+else :
+    print("negative")
+
+'''
+/
+*
++
+-
+//
+%
+**
+'''
