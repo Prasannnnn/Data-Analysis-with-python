@@ -4,10 +4,10 @@ if a == 5: # ---> 9 == 5
 
 
 #########
-a = float(input())
-b = float(input())
-if a > b:
-    print(f"{a} greater than {b}")
+a = float(input("Enter the Value of a: "))
+b = float(input("Enter the Value of b: "))
+if a < b:
+    print(f"{a} is lesser than {b}")
 else:
-    print(f"{b} is greather than {a}")
+    print(f"{a} is greater than {b}")
 
