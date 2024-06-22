@@ -11,3 +11,9 @@
 # else:
 #     print(f"{a} is greater than {b}")
 
+# a = input()
+# b = input()
+# if a == b:
+#     print("same ")
+# else:
+#     print("not same")
