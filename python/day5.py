@@ -10,3 +10,6 @@ if c == "circle":
 
 else:
     print("Invalid Angle")
+
+print(bool(8))
+
