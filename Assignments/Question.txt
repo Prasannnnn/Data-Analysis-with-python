@@ -1,0 +1,6 @@
+Download Iris dataset from internet and explore the same using 
+pandas and draw sample plots of your own choice.
+
+Let's download the Iris dataset, explore it using pandas, and create some sample plots.
+
+First, we'll import the necessary libraries and download the datase
