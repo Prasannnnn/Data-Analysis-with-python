@@ -3,3 +3,6 @@ a.remove("Ronin")
 a.pop(3)
 #del a
 print(a)
+b = ["1","Raj","Royal ","RX ","MT","Roni","Apa"]
+b.remove("Raj")
+print(b)
