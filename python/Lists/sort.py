@@ -3,10 +3,12 @@
 # a.sort()
 # print(a)
 
+#case Sensitive
 # a = ['apple','Mango',"Kiwi","Guavua","Green apple","bread Omelette"]
 # a.sort()
 # print(a)
 
-a = ["Gopala Krishnan","Prasanna Balaji","Hemakkani","Priya","Ashwath"]
-a.sort(reverse=True)
-print(a)
+# #Reverse the sort
+# a = ["Gopala Krishnan","Prasanna Balaji","Hemakkani","Priya","Ashwath"]
+# a.sort(reverse=True)
+# print(a)
