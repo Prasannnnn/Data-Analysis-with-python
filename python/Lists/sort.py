@@ -12,3 +12,7 @@
 # a = ["Gopala Krishnan","Prasanna Balaji","Hemakkani","Priya","Ashwath"]
 # a.sort(reverse=True)
 # print(a)
+
+a = ['apple','Mango',"Kiwi","Guavua","Green apple","bread Omelette"]
+a.sort(key=str.lower)
+print(a)
