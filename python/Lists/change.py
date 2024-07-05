@@ -5,3 +5,6 @@ a = ["Kingfisher","Jinga Gold","Vodka","Diamond","Red Bull"]
 #--->a[4] = "Old Monk"
 a[1:3]=["Magic Moments","barcadi"]
 print(a)
+
+a[4] ="signature"
+print(a)
