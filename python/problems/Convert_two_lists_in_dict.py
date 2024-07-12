@@ -17,9 +17,11 @@ way that item from list1 is the key and item from list2 is the value
 keys = [ 'ten','twenty','thirty']
 values = [10,20,30]
 
-result = {}
-for i in range(len(keys)):
-    result[keys[i]] = values[i]
+# result = {}
+# for i in range(len(keys)):
+#     result[keys[i]] = values[i]
 
+# print(result)
+
+result = dict(zip(keys,values))
 print(result)
-
