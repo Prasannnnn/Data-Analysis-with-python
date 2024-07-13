@@ -9,6 +9,8 @@ sample_dict = {
 } 
 Expected output: 
 {'name': 'Kelly', 'age': 25, 'salary': 8000, 'location': 'New york'}'''
+
+
 sample_dict = { 
 "name": "Kelly", 
 "age":25, 
