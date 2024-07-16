@@ -1,7 +1,10 @@
-def add(a,b):
-    return a+b
-print(add(10,5)) 
+a = 10
+b = 5
+c = a+b
+print(c)
 
-def sub(a,b):
-    return a-b
-print(sub(99,9))
+a,b = 10,5
+print(a+b)
+
+
+
