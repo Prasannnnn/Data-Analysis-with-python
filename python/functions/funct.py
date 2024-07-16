@@ -1,10 +1,4 @@
-a = 10
-b = 5
-c = a+b
-print(c)
-
-a,b = 10,5
-print(a+b)
-
-
+def add(a,b):
+    print(a+b)
+add(10,5)
 
